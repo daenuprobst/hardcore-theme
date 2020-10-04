@@ -1,0 +1,21 @@
+{
+    "name": "hardcore-theme",
+    "displayName": "Hardcore",
+    "description": "A very dark theme inspired by the hardcore windows terminal theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hardcore Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hardcore Theme-color-theme.json"
+            }
+        ]
+    }
+}
