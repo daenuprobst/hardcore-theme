@@ -2,7 +2,14 @@
     "name": "hardcore-theme",
     "displayName": "Hardcore",
     "description": "A very dark theme inspired by the hardcore windows terminal theme.",
+    "publisher": "daenuprobst",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/daenuprobst/hardcore-theme.git"
+    },
     "version": "0.0.1",
+    "preview": true,
+    "license": "MIT",
     "engines": {
         "vscode": "^1.49.0"
     },

@@ -24,9 +24,9 @@
 				<key>invisibles</key>
 				<string>#FFFFFF40</string>
 				<key>lineHighlight</key>
-				<string>#212121</string>
-				<key>selection</key>
-				<string>#3498DB</string>
+				<string>#121212</string>
+				<!-- <key>selection</key>
+				<string>#5e7175</string> -->
 			</dict>
 		</dict>
 		<dict>
