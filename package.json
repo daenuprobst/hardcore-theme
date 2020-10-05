@@ -8,7 +8,8 @@
         "url": "https://github.com/daenuprobst/hardcore-theme.git"
     },
     "version": "0.0.1",
-    "preview": true,
+    "preview": false,
+    "icon": "assets/icon.png",
     "license": "MIT",
     "engines": {
         "vscode": "^1.49.0"
