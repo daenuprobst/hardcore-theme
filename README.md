@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/daenuprobst/hardcore-theme/master/assets/icon.png" width="256">
+<img src="https://raw.githubusercontent.com/daenuprobst/hardcore-theme/main/assets/icon.png" width="256">
 </div>
 
 ## Description
@@ -13,7 +13,7 @@
 ## How it looks
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daenuprobst/hardcore-theme/master/assets/screenshot.png">
+  <img src="https://raw.githubusercontent.com/daenuprobst/hardcore-theme/main/assets/screenshot.png">
 </div>
 
 ## Feedback
