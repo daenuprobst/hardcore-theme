@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/daenuprobst/hardcore-theme.git"
     },
-    "version": "0.0.1",
+    "version": "0.1.0",
     "preview": false,
     "icon": "assets/icon.png",
     "license": "MIT",
